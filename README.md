@@ -2,4 +2,4 @@
 A football game written in vanilla javascript using HTML5 canvas.
 
 # License
-MIT License
+Apache License 2.0
